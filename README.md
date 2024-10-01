@@ -21,7 +21,7 @@ Mi objetivo a largo plazo es ser un experto en el desarrollo mobile, tanto en pl
 
 <div identificacion="indice de contenido del usuario">
   <de alinear="centro">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologias que conozco👨🏻‍💻</h2></summary>
   </de>
 </div>
 <!--tech stack icons-->
