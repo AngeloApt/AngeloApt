@@ -37,19 +37,13 @@ Mi objetivo a largo plazo es ser un experto en el desarrollo mobile, tanto en pl
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AngeloApt&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
-
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=AngeloApt&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AngeloApt&theme=dark" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
 <br/>
     <a href="https://github.com/AngeloApt/github-readme-stats"><img alt="AngeloApt Github Stats" src="https://github-readme-stats.vercel.app/api?username=AngeloApt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/AngeloApt/github-readme-stats"><img alt="AngeloApt Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloApt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AngeloApt&theme=dark" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
 
 <h4 align="center">Recuento de visitantes :eyes:</h4>
 
