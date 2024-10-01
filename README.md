@@ -50,7 +50,7 @@ Mi objetivo a largo plazo es ser un experto en el desarrollo mobile, tanto en pl
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AngeloApt}/count.svg" alt="AnhellO :: Recuento de visitantes" /></p>
 
-![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?style=social)
+![GitHub followers](https://img.shields.io/github/followers/AngeloApt?style=social)
 <!-- Connect with me -->
 <!--h2 w
 
