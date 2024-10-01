@@ -1,6 +1,7 @@
 <h1 align="center">Hola, soy <a href="https://angelopt.carrd.co/">Angelo</a>👋</h1>
 
-<img src="https://drive.google.com/uc?export=view&id=17Ci3xCL49851In6JWEDmrTyoBM_ac6QC" alt="Descripción de la imagen" width="200" />
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=17Ci3xCL49851In6JWEDmrTyoBM_ac6QC)
+
 
 
 
