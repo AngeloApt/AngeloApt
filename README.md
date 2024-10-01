@@ -6,7 +6,7 @@
 
 
 
-## Sobre mí
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
 Soy un apasionado desarrollador mobile enfocado en la creación de aplicaciones tanto para Android como para iOS, utilizando las tecnologías más avanzadas. Mi enfoque se centra en aprovechar el potencial de Kotlin para proyectos Android y Swift para iOS, así como en la implementación de soluciones multiplataforma a través de Kotlin Multiplatform.
 
