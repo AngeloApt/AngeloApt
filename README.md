@@ -1,9 +1,5 @@
 <h1 align="center">Hola, soy <a href="https://angelopt.carrd.co/">Angelo</a>👋</h1>
 
-<p align="center">
-  <a font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-
 ## Sobre mí
 
 Soy un apasionado desarrollador mobile enfocado en la creación de aplicaciones tanto para Android como para iOS, utilizando las tecnologías más avanzadas. Mi enfoque se centra en aprovechar el potencial de Kotlin para proyectos Android y Swift para iOS, así como en la implementación de soluciones multiplataforma a través de Kotlin Multiplatform.
