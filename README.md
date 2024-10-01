@@ -56,8 +56,4 @@ Mi objetivo a largo plazo es ser un experto en el desarrollo mobile, tanto en pl
 
 
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-<!-- Connect with me -->
-<!--h2 w
 
-<!-- Connect with me -->
-<!--h2 w
