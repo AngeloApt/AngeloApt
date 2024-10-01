@@ -27,7 +27,7 @@ Mi objetivo a largo plazo es ser un experto en el desarrollo mobile, tanto en pl
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,swift,java,javascript,python,ktor,retrofit,firebase,git,androidstudio,xcode,mongodb,sqlite,aws,kubermetes,ci/cd,github,aws,cpp,css,swift,discord,postgres,figma,firebase,html,java,js,linux,mongodb,mysql,nodejs,postman,py,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=kotlin,swift,java,javascript,python,ktor,retrofit,firebase,git,androidstudio,xcode,mongodb,sqlite,aws,ci/cd,github,kubermetes,cpp,css,postgres,figma,html,linux,mysql,nodejs,postman,react,vscode,discord&perline=14" />
   </a>
 </p>
 
