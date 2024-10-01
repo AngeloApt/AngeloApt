@@ -35,8 +35,6 @@ Mi objetivo a largo plazo es ser un experto en el desarrollo mobile, tanto en pl
 <br>
 
 <img height="180em" src="https://streak-stats.demolab.com?user=AngeloApt&theme=tokyonight&hide_border=true&border_radius="/>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AngeloApt&theme=dark" alt="AngeloApt" /></p>
-<br><br><br><br><br><br><br><br><br><br>
 
 <br/>
     <a href="https://github.com/AngeloApt/github-readme-stats"><img alt="AngeloApt Github Stats" src="https://github-readme-stats.vercel.app/api?username=AngeloApt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
