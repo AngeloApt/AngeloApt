@@ -46,6 +46,10 @@ Mi objetivo a largo plazo es ser un experto en el desarrollo mobile, tanto en pl
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AngeloApt&theme=dark" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
+<p align="center">
+  <img src="https://github.com/AngeloApt/AngeloApt/blob/main/github-user-contribution.svg" alt="snake">
+</p>
+
 <h4 align="center">Recuento de visitantes :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AngeloApt}/count.svg" alt="AnhellO :: Recuento de visitantes" /></p>
