@@ -1,12 +1,10 @@
 <h1 align="center">Hola, soy <a href="https://angelopt.carrd.co/">Angelo</a>👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=HOLA!+-+¡Bienvenido+a+mi+perfil!;+HELLO!+-+Welcome+to+my+profile!;+BONJOUR!+-+Bienvenue+sur+mon+profil!;+CIAO!+-+Benvenuto+nel+mi+profilo!;+안녕하세요!+-+제+프로필에+오신+것을+환영합니다!;+こんにちは!+-+私のプロフィールへようこそ！;+你好!+-+欢迎来到我的个人资料;+Привет!+-+Добро+пожаловать+на+мой+профиль!<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=HOLA!+-+¡Bienvenido+a+mi+perfil!;+HELLO!+-+Welcome+to+my+profile!;+BONJOUR!+-+Bienvenue+sur+mon+profil!;+CIAO!+-+Benvenuto+nel+mi+profilo!;+안녕하세요!+-+제+프로필에+오신+것을+환영합니다!;+こんにちは!+-+私のプロフィールへようこそ！;+你好!+-+欢迎来到我的个人资料;+Привет!+-+Добро+пожаловать+на+мой+профиль!"></a>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=6500&lines=HOLA!+-+¡Bienvenido+a+mi+perfil!;+HELLO!+-+Welcome+to+my+profile!;+BONJOUR!+-+Bienvenue+sur+mon+profil!;+CIAO!+-+Benvenuto+nel+mi+profilo!;+안녕하세요!+-+제+프로필에+오신+것을+환영합니다!;+こんにちは!+-+私のプロフィールへようこそ！;+你好!+-+欢迎来到我的个人资料;+Привет!+-+Добро+пожаловать+на+мой+профиль!" > 
-</p>
+
 
 ## Sobre mí
 
