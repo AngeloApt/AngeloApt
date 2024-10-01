@@ -18,3 +18,22 @@ Mi objetivo es crear aplicaciones nativas eficientes y escalables que ofrezcan e
 ## Visión
 
 Mi objetivo a largo plazo es ser un experto en el desarrollo mobile, tanto en plataformas individuales como en soluciones multiplataforma. Estoy enfocado en construir aplicaciones nativas potentes y eficientes, manteniendo siempre un enfoque en la calidad del código y la experiencia de usuario.
+
+<div identificacion="indice de contenido del usuario">
+  <de alinear="centro">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </de>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
+
+
+<!-- Connect with me -->
+<!--h2 w
+
+<!-- Connect with me -->
+<!--h2 w
