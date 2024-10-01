@@ -12,7 +12,7 @@ Soy un apasionado desarrollador mobile enfocado en la creación de aplicaciones 
 
 Mi objetivo es crear aplicaciones nativas eficientes y escalables que ofrezcan experiencias de usuario intuitivas y fluidas en ambos sistemas operativos. Me encanta resolver problemas complejos mediante el uso de las mejores prácticas de desarrollo y siempre estoy buscando nuevas oportunidades para mejorar mis habilidades.
 
-## Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas
 
 - Lenguajes: Kotlin, Swift
 - Frameworks: Jetpack Compose, SwiftUI, Kotlin Multiplatform (KMP)
