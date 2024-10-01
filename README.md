@@ -42,6 +42,12 @@ Mi objetivo a largo plazo es ser un experto en el desarrollo mobile, tanto en pl
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=AngeloApt&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
+
+<br/>
+    <a href="https://github.com/AngeloApt/github-readme-stats"><img alt="AngeloApt Github Stats" src="https://github-readme-stats.vercel.app/api?username=AngeloApt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/AngeloApt/github-readme-stats"><img alt="AngeloApt Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloApt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AngeloApt&theme=dark" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
