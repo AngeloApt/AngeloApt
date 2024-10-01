@@ -41,6 +41,9 @@ Mi objetivo a largo plazo es ser un experto en el desarrollo mobile, tanto en pl
   <a href="https://github.com/AngeloApt/github-readme-stats"><img alt="AngeloApt Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloApt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/id1945/id1945/output/github-contribution-grid-snake-dark.svg)
+
+
 <h4 align="center">Recuento de visitantes :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AngeloApt}/count.svg" alt="AnhellO :: Recuento de visitantes" /></p>
