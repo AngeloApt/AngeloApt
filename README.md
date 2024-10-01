@@ -19,11 +19,9 @@ Mi objetivo es crear aplicaciones nativas eficientes y escalables que ofrezcan e
 
 Mi objetivo a largo plazo es ser un experto en el desarrollo mobile, tanto en plataformas individuales como en soluciones multiplataforma. Estoy enfocado en construir aplicaciones nativas potentes y eficientes, manteniendo siempre un enfoque en la calidad del código y la experiencia de usuario.
 
-<div identificacion="indice de contenido del usuario">
-  <de alinear="centro">
-    <summary><h2 style="display: inline-block">Tecnologias que conozco👨🏻‍💻</h2></summary>
-  </de>
-</div>
+
+## Tecnologias que conozco
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
