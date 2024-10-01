@@ -49,9 +49,7 @@ Mi objetivo a largo plazo es ser un experto en el desarrollo mobile, tanto en pl
 ![GitHub followers](https://img.shields.io/github/followers/AngeloApt?style=social)
 
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 <!-- Connect with me -->
 <!--h2 w
 
