@@ -47,6 +47,11 @@ Mi objetivo a largo plazo es ser un experto en el desarrollo mobile, tanto en pl
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-angelopt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelopt/)](https://www.linkedin.com/in/Angelopt/)
 ![GitHub followers](https://img.shields.io/github/followers/AngeloApt?style=social)
+
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 <!-- Connect with me -->
 <!--h2 w
 
