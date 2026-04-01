@@ -11,7 +11,11 @@
 Soy un apasionado desarrollador mobile enfocado en la creación de aplicaciones tanto para Android como para iOS, utilizando las tecnologías más avanzadas. Mi enfoque se centra en aprovechar el potencial de Kotlin para proyectos Android y Swift para iOS, así como en la implementación de soluciones multiplataforma a través de Kotlin Multiplatform.
 
 Mi objetivo es crear aplicaciones nativas eficientes y escalables que ofrezcan experiencias de usuario intuitivas y fluidas en ambos sistemas operativos. Me encanta resolver problemas complejos mediante el uso de las mejores prácticas de desarrollo y siempre estoy buscando nuevas oportunidades para mejorar mis habilidades.
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
+[cite_start]Soy un **Ingeniero en Computación e Informática** apasionado por la intersección entre el software de alto rendimiento y el hardware[cite: 64, 65]. [cite_start]Mi enfoque ha evolucionado desde el desarrollo mobile nativo (Android/iOS) hacia la ingeniería de sistemas críticos para la **industria automotriz**.
+
+[cite_start]Actualmente, lidero un proyecto independiente de **telemetría para vehículos eléctricos (EV)**, donde exploro arquitecturas multimodulares, comunicación de bajo nivel con **C++/JNI** y estándares de **Android Automotive (AAOS/VHAL)**[cite: 68, 71, 74]. Me motiva resolver desafíos donde la eficiencia algorítmica y la estabilidad del sistema son vitales.
 ## 🛠️ Tecnologías y herramientas
 
 - Lenguajes: Kotlin, Swift
