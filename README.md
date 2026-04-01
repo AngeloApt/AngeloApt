@@ -42,14 +42,10 @@ Mi objetivo es convertirme en un experto en la arquitectura integral de **Softwa
 
 <img height="180em" src="https://streak-stats.demolab.com?user=AngeloApt&theme=tokyonight&hide_border=true&border_radius="/>
 
-<br/>
-    <a href="https://github.com/AngeloApt/github-readme-stats"><img alt="AngeloApt Github Stats" src="https://github-readme-stats.vercel.app/api?username=AngeloApt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AngeloApt/github-readme-stats"><img alt="AngeloApt Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloApt&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
 
-<h4 align="center">Recuento de visitantes :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AngeloApt}/count.svg" alt="AnhellO :: Recuento de visitantes" /></p>
+
+
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-angelopt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelopt/)](https://www.linkedin.com/in/Angelopt/)
 ![GitHub followers](https://img.shields.io/github/followers/AngeloApt?style=social)
