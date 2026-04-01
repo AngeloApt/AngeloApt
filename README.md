@@ -6,7 +6,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
-Soy un **Software Engineer** apasionado por la convergencia entre el desarrollo de aplicaciones de alto rendimiento y el software de bajo nivel. Mi trayectoria destaca por liderar productos críticos y soluciones móviles internacionales (Android/iOS) utilizando tecnologías como **Kotlin (Jetpack Compose)**, **Swift** y **Kotlin Multiplatform (KMP)**.
+**Software Engineer** apasionado por la convergencia entre el desarrollo de aplicaciones de alto rendimiento y el software de bajo nivel. Mi trayectoria destaca por liderar productos críticos y soluciones móviles internacionales (Android/iOS) utilizando tecnologías como **Kotlin (Jetpack Compose)**, **Swift** y **Kotlin Multiplatform (KMP)**.
 
 Actualmente, mi foco está en la **industria automotriz**, especializándome en la integración nativa mediante **C++ y JNI**, y explorando los estándares de **Android Automotive (AAOS/VHAL)**.Mi objetivo es diseñar el "sistema nervioso" de los vehículos eléctricos, yendo más allá de la pantalla para impactar en todo el ecosistema del software vehicular.
 
@@ -35,7 +35,8 @@ Mi objetivo es convertirme en un experto en la arquitectura integral de **Softwa
   </a>
 </p>
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Mis estadísticas de GitHub</b> 
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Mis estadísticas de GitHub
+</b> 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
@@ -50,7 +51,9 @@ Mi objetivo es convertirme en un experto en la arquitectura integral de **Softwa
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AngeloApt}/count.svg" alt="AnhellO :: Recuento de visitantes" /></p>
 
-[![Linkedin: angelopt](https://img.shields.io/badge/-angelopt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelopt/)](https://www.linkedin.com/in/Angelopt/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-angelopt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelopt/)](https://www.linkedin.com/in/Angelopt/)
 ![GitHub followers](https://img.shields.io/github/followers/AngeloApt?style=social)
 
+
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+
