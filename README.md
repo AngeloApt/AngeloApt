@@ -6,7 +6,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
-**Software Engineer** apasionado por la convergencia entre el desarrollo de aplicaciones de alto rendimiento y el software de bajo nivel. Mi trayectoria destaca por liderar productos críticos y soluciones móviles internacionales (Android/iOS) utilizando tecnologías como **Kotlin (Jetpack Compose)**, **Swift** y **Kotlin Multiplatform (KMP)**.
+Apasionado por la convergencia entre el desarrollo de aplicaciones de alto rendimiento y el software de bajo nivel. Mi trayectoria destaca por liderar productos críticos y soluciones móviles internacionales (Android/iOS) utilizando tecnologías como **Kotlin (Jetpack Compose)**, **Swift** y **Kotlin Multiplatform (KMP)**.
 
 Actualmente, mi foco está en la **industria automotriz**, especializándome en la integración nativa mediante **C++ y JNI**, y explorando los estándares de **Android Automotive (AAOS/VHAL)**.Mi objetivo es diseñar el "sistema nervioso" de los vehículos eléctricos, yendo más allá de la pantalla para impactar en todo el ecosistema del software vehicular.
 
